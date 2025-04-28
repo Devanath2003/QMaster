@@ -1,0 +1,15 @@
+# Ignore large model files
+*.pkl
+
+# Python cache
+__pycache__/
+
+# Environment files
+.env
+
+# Node.js
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
